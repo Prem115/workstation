@@ -10,7 +10,7 @@ provisioner:
   always_update_cookbooks: true
 
 verifier:
-  name: inspec
+  name: busser
 
 platforms:
   - name: centos-6.7
