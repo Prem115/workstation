@@ -4,12 +4,14 @@
 #
 # Copyright:: 2017, The Authors, All Rights Reserved.
 
-package '7zip' do
- source 'http://www.7-zip.org/a/7z938-x64.msi'
+package 'tree' do
  action :install
 end
 
-package 'WinSCP-5' do
- source 'C:/Prem/Software/WinSCP-5.9.5-Setup.exe'
+package 'httpd' do
  action :install
+end
+
+service 'httpd' do
+  action [:enable, :start]
 end

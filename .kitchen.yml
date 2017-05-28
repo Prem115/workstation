@@ -19,7 +19,4 @@ suites:
   - name: default
     run_list:
       - recipe[workstation::default]
-    verifier:
-      inspec_tests:
-        - test/smoke/default
     attributes:

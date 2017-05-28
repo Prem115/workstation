@@ -1,0 +1,1202 @@
+{
+  "name": "NEMI-PC",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 4,
+        "vendor_id": "GenuineIntel",
+        "family": "205",
+        "model": "",
+        "stepping": "9",
+        "physical_id": "CPU0",
+        "model_name": "Intel64 Family 6 Model 158 Stepping 9",
+        "mhz": "2501",
+        "cache_size": "1024 KB"
+      },
+      "total": 4,
+      "cores": 4,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 986758246,
+        "kb_available": 150558334,
+        "kb_used": 836199912,
+        "percent_used": 84,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": "OS"
+      },
+      "D:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "D:",
+        "volume_name": null
+      },
+      "E:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "E:",
+        "volume_name": null
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume1",
+        "build_number": "15063",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 10 Home",
+        "code_set": "1252",
+        "country_code": "91",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": null,
+        "cs_name": "NEMI-PC",
+        "current_time_zone": 330,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "4185052",
+        "free_space_in_paging_files": "1292624",
+        "free_virtual_memory": "3023220",
+        "install_date": "20170425112132.000000+330",
+        "large_system_cache": null,
+        "last_boot_up_time": "20170519095951.492286+330",
+        "local_date_time": "20170524115947.737000+330",
+        "locale": "4009",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "137438953344",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 10 Home|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 231,
+        "number_of_users": 2,
+        "operating_system_sku": 101,
+        "organization": null,
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 768,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "portable_operating_system": false,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": null,
+        "serial_number": "00325-96064-58571-AAOEM",
+        "service_pack_major_version": 0,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "1310720",
+        "status": "OK",
+        "suite_mask": 784,
+        "system_device": "\\Device\\HarddiskVolume3",
+        "system_directory": "C:\\WINDOWS\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "9562580",
+        "total_visible_memory_size": "8251860",
+        "version": "10.0.15063",
+        "windows_directory": "C:\\WINDOWS"
+      },
+      "name": "Microsoft Windows 10 Home",
+      "release": "10.0.15063",
+      "version": "10.0.15063  Build 15063",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "boot_status": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bootup_state": "Normal boot",
+        "caption": "NEMI-PC",
+        "chassis_bootup_state": 3,
+        "chassis_sku_number": "Notebook",
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": 330,
+        "daylight_in_effect": null,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "NEMI-PC",
+        "domain": "WORKGROUP",
+        "domain_role": 0,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "hypervisor_present": false,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Dell Inc.",
+        "model": "Inspiron 15 7000 Gaming",
+        "name": "NEMI-PC",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "Dell System",
+          "1[0798]",
+          "3[1.0]",
+          "12[www.dell.com]",
+          "14[1]",
+          "15[0]"
+        ],
+        "part_of_domain": false,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "pc_system_type_ex": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": null,
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "NT"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_family": "Inspiron",
+        "system_sku_number": "0798",
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "8449904640",
+        "user_name": "NEMI-PC\\prem1",
+        "wake_up_type": 6,
+        "workgroup": "WORKGROUP"
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "1310720kB",
+        "free": "1292624kB"
+      },
+      "total": "8251860kB",
+      "free": "4184740kB"
+    },
+    "network": {
+      "interfaces": {
+        "0x2": {
+          "configuration": {
+            "ip_address": [
+              "192.168.225.168",
+              "fe80::8053:8b55:fb66:6056",
+              "2405:204:29:ade7:5867:9c99:581:b4f0",
+              "2405:204:29:ade7:8053:8b55:fb66:6056"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000001] Intel(R) Dual Band Wireless-AC 3165",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "192.168.225.1",
+              "fe80::d5f4:f346:34de:3d7a"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Intel(R) Dual Band Wireless-AC 3165",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20170524220417.000000+330",
+            "dhcp_lease_obtained": "20170524100417.000000+330",
+            "dhcp_server": "192.168.225.1",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "NEMI-PC",
+            "dns_server_search_order": [
+              "192.168.225.1"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0,
+              256
+            ],
+            "igmp_level": null,
+            "index": 1,
+            "interface_index": 2,
+            "ip_connection_metric": 50,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64",
+              "128",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "70:1C:E7:5F:CE:F9",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "Netwtw04",
+            "setting_id": "{3FE2890B-D0CB-43D0-97AD-E6A94FD2551C}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000001] Intel(R) Dual Band Wireless-AC 3165",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Intel(R) Dual Band Wireless-AC 3165",
+            "device_id": "1",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{3FE2890B-D0CB-43D0-97AD-E6A94FD2551C}",
+            "index": 1,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 2,
+            "last_error_code": null,
+            "mac_address": "70:1C:E7:5F:CE:F9",
+            "manufacturer": "Intel Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) Dual Band Wireless-AC 3165",
+            "net_connection_id": "Wi-Fi",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_3165&SUBSYS_44108086&REV_79\\4&D2449FF&0&00E5",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) Dual Band Wireless-AC 3165",
+            "service_name": "Netwtw04",
+            "speed": "150000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "NEMI-PC",
+            "time_of_last_reset": "20170519095951.492286+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.225.168": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.225.255",
+              "family": "inet"
+            },
+            "fe80::8053:8b55:fb66:6056": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "2405:204:29:ade7:5867:9c99:581:b4f0": {
+              "prefixlen": "128",
+              "family": "inet6"
+            },
+            "2405:204:29:ade7:8053:8b55:fb66:6056": {
+              "prefixlen": "64",
+              "family": "inet6"
+            },
+            "70:1C:E7:5F:CE:F9": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.225.1": "42:aa:ff:1c:93:27",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0xa": {
+          "configuration": {
+            "ip_address": [
+              "169.254.211.242",
+              "fe80::317d:a544:8286:d3f2"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000012] Microsoft Wi-Fi Direct Virtual Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Microsoft Wi-Fi Direct Virtual Adapter #2",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "NEMI-PC",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 12,
+            "interface_index": 10,
+            "ip_connection_metric": 55,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.0.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "72:1C:E7:5F:CE:F9",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "vwifimp",
+            "setting_id": "{959616B6-4DF1-4E12-A7F8-B77DBD241047}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000012] Microsoft Wi-Fi Direct Virtual Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Microsoft Wi-Fi Direct Virtual Adapter",
+            "device_id": "12",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{959616B6-4DF1-4E12-A7F8-B77DBD241047}",
+            "index": 12,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 10,
+            "last_error_code": null,
+            "mac_address": "72:1C:E7:5F:CE:F9",
+            "manufacturer": "Microsoft",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Microsoft Wi-Fi Direct Virtual Adapter #2",
+            "net_connection_id": "Local Area Connection* 13",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\\VWIFIMP_WFD\\5&2C0259DA&0&12",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Microsoft Wi-Fi Direct Virtual Adapter",
+            "service_name": "vwifimp",
+            "speed": "54000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "NEMI-PC",
+            "time_of_last_reset": "20170519095951.492286+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "169.254.211.242": {
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "family": "inet"
+            },
+            "fe80::317d:a544:8286:d3f2": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "72:1C:E7:5F:CE:F9": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "192.168.225.1",
+      "default_interface": "0x2"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "192.168.225.168",
+    "macaddress": "70:1C:E7:5F:CE:F9",
+    "ip6address": "fe80::317d:a544:8286:d3f2",
+    "os": "windows",
+    "os_version": "10.0.15063",
+    "platform": "windows",
+    "platform_version": "10.0.15063",
+    "platform_family": "windows",
+    "uptime_seconds": 439197,
+    "uptime": "5 days 01 hours 59 minutes 57 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "powershell": {
+        "version": "5.1.15063.296",
+        "ws_man_stack_version": "3.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "4.0.30319.42000",
+        "build_version": "10.0.15063.296",
+        "compatible_versions": [
+          "1.0",
+          "2.0",
+          "3.0",
+          "4.0",
+          "5.0",
+          "5.1.15063.296"
+        ],
+        "remoting_protocol_version": "2.3"
+      },
+      "ruby": {
+        "platform": "i386-mingw32",
+        "version": "2.3.1",
+        "release_date": "2016-04-26",
+        "target": "i386-w64-mingw32",
+        "target_cpu": "i386",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "i686-w64-mingw32",
+        "host_cpu": "i686",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "C:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "C:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0",
+        "gem_bin": "C:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "12.19.36",
+        "chef_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.19.36-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "8.23.0",
+        "ohai_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.23.0/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "command": {
+
+    },
+    "hostname": "NEMI-PC",
+    "machinename": "NEMI-PC",
+    "fqdn": "NEMI-PC",
+    "domain": null,
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1495607396.878447,
+    "packages": {
+      "DAEMON Tools Lite": {
+        "version": "10.5.1.0230",
+        "publisher": "Disc Soft Ltd"
+      },
+      "Notepad++ (64-bit x64)": {
+        "version": "7.3.3",
+        "publisher": "Notepad++ Team"
+      },
+      "Microsoft Office 365 - en-us": {
+        "version": "16.0.7967.2161",
+        "publisher": "Microsoft Corporation"
+      },
+      "Dell SupportAssist": {
+        "version": "1.3.6855.61",
+        "publisher": "Dell"
+      },
+      "VLC media player": {
+        "version": "2.2.4",
+        "publisher": "VideoLAN"
+      },
+      "Vulkan Run Time Libraries 1.0.33.0": {
+        "version": "1.0.33.0",
+        "publisher": "LunarG, Inc."
+      },
+      "Vulkan Run Time Libraries 1.0.42.1": {
+        "version": "1.0.42.1",
+        "publisher": "LunarG, Inc."
+      },
+      "WinRAR 5.40 (64-bit)": {
+        "version": "5.40.0",
+        "publisher": "win.rar GmbH"
+      },
+      "Intel® PROSet/Wireless WiFi Software": {
+        "version": "19.10.0.0866",
+        "publisher": "Intel Corporation",
+        "installdate": "20161228"
+      },
+      "Intel(R) Management Engine Components": {
+        "version": "11.6.0.1035",
+        "publisher": "Intel Corporation",
+        "installdate": "20161228"
+      },
+      "Dell SupportAssist Remediation": {
+        "version": "2.0.2.1818",
+        "publisher": "Dell Inc."
+      },
+      "Windows 10 Update and Privacy Settings": {
+        "version": "1.0.13.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170421"
+      },
+      "Dell Data Vault": {
+        "version": "4.4.2.0",
+        "publisher": "Dell Inc.",
+        "installdate": "20170429"
+      },
+      "Maxx Audio Installer (x64)": {
+        "version": "2.7.8865.0",
+        "publisher": "Waves Audio Ltd.",
+        "installdate": "20161228"
+      },
+      "Malwarebytes version 3.1.2.1733": {
+        "version": "3.1.2.1733",
+        "publisher": "Malwarebytes",
+        "installdate": "20170514"
+      },
+      "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170520"
+      },
+      "True Color XML Tables": {
+        "version": "7.6.0.0",
+        "publisher": "Entertainment Experience LLC",
+        "installdate": "20161228"
+      },
+      "Intel(R) Rapid Storage Technology": {
+        "version": "15.2.0.1020",
+        "publisher": "Intel Corporation",
+        "installdate": "20161228"
+      },
+      "Bonjour": {
+        "version": "3.1.0.1",
+        "publisher": "Apple Inc.",
+        "installdate": "20170503"
+      },
+      "iTunes": {
+        "version": "12.6.0.100",
+        "publisher": "Apple Inc.",
+        "installdate": "20170503"
+      },
+      "Apple Application Support (64-bit)": {
+        "version": "5.4.1",
+        "publisher": "Apple Inc.",
+        "installdate": "20170503"
+      },
+      "Intel® Trusted Connect Service Client": {
+        "version": "1.43.301.1",
+        "publisher": "Intel Corporation",
+        "installdate": "20161228"
+      },
+      "Intel(R) Chipset Device Software": {
+        "version": "10.1.1.38",
+        "publisher": "Intel(R) Corporation"
+      },
+      "Product Registration": {
+        "version": "3.0.123.0",
+        "publisher": "Dell Inc.",
+        "installdate": "20170315"
+      },
+      "Quickset64": {
+        "version": "10.17.018",
+        "publisher": "Dell Inc.",
+        "installdate": "20161228"
+      },
+      "Office 16 Click-to-Run Licensing Component": {
+        "version": "16.0.7967.2161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170513"
+      },
+      "Office 16 Click-to-Run Extensibility Component 64-bit Registration": {
+        "version": "16.0.7967.2161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170513"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161228"
+      },
+      "Dell Update - SupportAssist Update Plugin": {
+        "version": "2.0.2.1835",
+        "publisher": "Dell Inc.",
+        "installdate": "20170315"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161228"
+      },
+      "Ansel": {
+        "version": "382.05",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NVIDIA 3D Vision Driver 382.05": {
+        "version": "382.05",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NVIDIA Control Panel 382.05": {
+        "version": "382.05",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NVIDIA Graphics Driver 382.05": {
+        "version": "382.05",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NVIDIA GeForce Experience 3.6.0.74": {
+        "version": "3.6.0.74",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Optimus Update 25.0.0.0": {
+        "version": "25.0.0.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA PhysX System Software 9.17.0329": {
+        "version": "9.17.0329",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170427"
+      },
+      "NVIDIA Update 25.0.0.0": {
+        "version": "25.0.0.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "SHIELD Streaming": {
+        "version": "7.1.0370",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA HD Audio Driver 1.3.34.26": {
+        "version": "1.3.34.26",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NVIDIA Install Application": {
+        "version": "2.1002.248.2109",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Backend": {
+        "version": "25.0.0.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Container": {
+        "version": "1.4",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA LocalSystem Container": {
+        "version": "1.4",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Message Bus for NvContainer": {
+        "version": "1.4",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA NetworkService Container": {
+        "version": "1.4",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Session Container": {
+        "version": "1.4",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA User Container": {
+        "version": "1.4",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Display Container": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NVIDIA Display Container LS": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NVIDIA Display Watchdog Plugin": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NVIDIA Display Session Container": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170505"
+      },
+      "NvNodejs": {
+        "version": "3.6.0.74",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Watchdog Plugin for NvContainer": {
+        "version": "1.4",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NvTelemetry": {
+        "version": "2.4.10.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Telemetry Container": {
+        "version": "2.4.10.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NvvHci": {
+        "version": "2.02.0.5",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "Nvidia Share": {
+        "version": "3.6.0.74",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA ShadowPlay 3.6.0.74": {
+        "version": "3.6.0.74",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "SHIELD Wireless Controller Driver": {
+        "version": "3.6.0.74",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Update Core": {
+        "version": "25.0.0.0",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "NVIDIA Virtual Audio 3.70.2": {
+        "version": "3.70.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170523"
+      },
+      "Dell Foundation Services": {
+        "version": "3.4.16100.0",
+        "publisher": "Dell Inc.",
+        "installdate": "20170315"
+      },
+      "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170520"
+      },
+      "Apple Mobile Device Support": {
+        "version": "10.3.1.2",
+        "publisher": "Apple Inc.",
+        "installdate": "20170503"
+      },
+      "True Color": {
+        "version": "7.4.0.0",
+        "publisher": "Entertainment Experience"
+      },
+      "Dell Help & Support": {
+        "version": "2.4.18.0",
+        "publisher": "Dell Inc.",
+        "installdate": "20170315"
+      },
+      "Intel(R) PRO/Wireless Driver": {
+        "version": "19.20.0000.5007",
+        "publisher": "Intel Corporation",
+        "installdate": "20161228"
+      },
+      "Microsoft VC++ redistributables repacked.": {
+        "version": "12.0.0.0",
+        "publisher": "Intel Corporation",
+        "installdate": "20161228"
+      },
+      "DSC/AA Factory Installer": {
+        "version": "1.3.6855.61",
+        "publisher": "PC-Doctor, Inc.",
+        "installdate": "20161228"
+      },
+      "Intel(R) HID Event Filter": {
+        "version": "1.1.0.317",
+        "publisher": "Intel Corporation"
+      },
+      "Dropbox": {
+        "version": "26.4.24",
+        "publisher": "Dropbox, Inc."
+      },
+      "HandBrake 0.9.9.1": {
+        "version": "0.9.9.1"
+      },
+      "Dell Product Registration": {
+        "version": "3.0.123.0",
+        "publisher": "Dell Inc.",
+        "installdate": "20170315"
+      },
+      "McAfee® AntiVirus": {
+        "version": "14.0 R13",
+        "publisher": "McAfee, Inc."
+      },
+      "Need For Speed Rivals version 1.4.0.0": {
+        "version": "1.4.0.0",
+        "publisher": "Mr DJ",
+        "installdate": "20170520"
+      },
+      "NVIDIA Stereoscopic 3D Driver": {
+        "version": "7.17.13.7500",
+        "publisher": "NVIDIA Corporation"
+      },
+      "Steam": {
+        "version": "1.0.0.0",
+        "publisher": "Valve Corporation",
+        "installdate": "20170418"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Apple Application Support (32-bit)": {
+        "version": "5.4.1",
+        "publisher": "Apple Inc.",
+        "installdate": "20170503"
+      },
+      "Dropbox Update Helper": {
+        "version": "1.3.65.1",
+        "publisher": "Dropbox, Inc.",
+        "installdate": "20170315"
+      },
+      "gpedt.msc 1.0": {
+        "publisher": "Richard",
+        "installdate": "20170427"
+      },
+      "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170315"
+      },
+      "McAfee WebAdvisor": {
+        "version": "4.0.139",
+        "publisher": "McAfee, Inc."
+      },
+      "Dell Update": {
+        "version": "1.9.7.0",
+        "publisher": "Dell Inc.",
+        "installdate": "20161228"
+      },
+      "Microsoft Games for Windows Marketplace": {
+        "version": "3.5.50.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170422"
+      },
+      "Dell Customer Connect": {
+        "version": "1.4.15.0",
+        "publisher": "Dell Inc.",
+        "installdate": "20170315"
+      },
+      "Apple Software Update": {
+        "version": "2.3.0.177",
+        "publisher": "Apple Inc.",
+        "installdate": "20170503"
+      },
+      "Realtek Card Reader": {
+        "version": "10.0.14393.31228",
+        "publisher": "Realtek Semiconductor Corp."
+      },
+      "Google Update Helper": {
+        "version": "1.3.32.7",
+        "publisher": "Google Inc.",
+        "installdate": "20170315"
+      },
+      "Intel® PROSet/Wireless Software": {
+        "version": "19.20.0",
+        "publisher": "Intel Corporation"
+      },
+      "Intel(R) Dynamic Platform and Thermal Framework": {
+        "version": "8.2.11000.2996",
+        "publisher": "Intel Corporation"
+      },
+      "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106": {
+        "version": "11.0.51106",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170419"
+      },
+      "PS4 Remote Play": {
+        "version": "2.0.0.02211",
+        "publisher": "Sony Interactive Entertainment Inc.",
+        "installdate": "20170315"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Intel(R) Wireless Bluetooth(R)": {
+        "version": "19.11.1639.0649",
+        "publisher": "Intel Corporation",
+        "installdate": "20161228"
+      },
+      "Batman Arkham City version 1.0": {
+        "version": "1.0",
+        "publisher": "Warner Bros. Interactive",
+        "installdate": "20170418"
+      },
+      "Office 16 Click-to-Run Extensibility Component": {
+        "version": "16.0.7967.2161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170513"
+      },
+      "Office 16 Click-to-Run Localization Component": {
+        "version": "16.0.7668.2066",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170316"
+      },
+      "TrueColorXMLTables": {
+        "version": "7.6.0.0",
+        "publisher": "Entertainment Experience"
+      },
+      "Dell Digital Delivery": {
+        "version": "3.1.1117.0",
+        "publisher": "Dell Products, LP",
+        "installdate": "20161228"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17": {
+        "version": "9.0.30729",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170427"
+      },
+      "Chef Development Kit v1.4.3": {
+        "version": "1.4.3.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20170524"
+      },
+      "Dell SupportAssistAgent": {
+        "version": "1.4.2.2",
+        "publisher": "Dell",
+        "installdate": "20170429"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030": {
+        "version": "11.0.61030.0",
+        "publisher": "Корпорация Майкрософт"
+      },
+      "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170520"
+      },
+      "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170520"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106": {
+        "version": "11.0.51106",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170419"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030": {
+        "version": "11.0.61030.0",
+        "publisher": "Корпорация Майкрософт"
+      },
+      "Intel(R) Processor Graphics": {
+        "version": "21.20.16.4574",
+        "publisher": "Intel Corporation"
+      },
+      "Realtek High Definition Audio Driver": {
+        "version": "6.0.1.7962",
+        "publisher": "Realtek Semiconductor Corp."
+      },
+      "Microsoft Games for Windows - LIVE Redistributable": {
+        "version": "3.5.88.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170422"
+      },
+      "Realtek Ethernet Controller All-In-One Windows Driver": {
+        "version": "10.11.923.2016",
+        "publisher": "Realtek",
+        "installdate": "20161228"
+      },
+      "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170315"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "India Standard Time"
+    },
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
